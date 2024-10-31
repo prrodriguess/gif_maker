@@ -1,5 +1,8 @@
 # gif maker
 
+![Git Maker](https://i.ytimg.com/vi/-OTc0Ki7Sv0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDEMcvMI2aCXvvHKxLkQBzdhE3fPA)
+
+
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
